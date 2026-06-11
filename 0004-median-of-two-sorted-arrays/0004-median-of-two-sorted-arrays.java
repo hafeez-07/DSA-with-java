@@ -22,9 +22,9 @@ class Solution {
             System.out.print(x + " ");
         }
 
-        boolean isEven = (m + n) %2  == 0;
+       
         int total = m+n;
-        if (isEven) {
+        if (total%2 ==0) {
             int mid1 = total/2 - 1;
             int mid2 = total/2;
             return ((mergedArray[mid1] + mergedArray[mid2]) / 2.0);
