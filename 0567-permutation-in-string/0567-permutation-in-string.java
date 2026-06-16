@@ -8,15 +8,12 @@ class Solution {
         int[] freqStr = new int[26];
         int[] freqWindow= new int[26];
 
-        //add freq of s1
+        //add freq of s1 and initial window
         for(int i=0;i<s1.length();i++){
             freqStr[s1.charAt(i)-'a']++;
-        }
-
-        //add initial window freq
-        for(int i=0;i<s1.length();i++){
             freqWindow[s2.charAt(i)-'a']++;
         }
+
 
         //compare 2 arrays
         if(checkFreq(freqStr,freqWindow)){
@@ -25,7 +22,6 @@ class Solution {
 
         //side window
         for(int i=s1.length();i<s2.length();i++){
-            char c = s2.charAt(i);
             freqWindow[s2.charAt(i)-'a']++;
             freqWindow[s2.charAt(i-s1.length())-'a']--;
             if(checkFreq(freqStr,freqWindow)){
