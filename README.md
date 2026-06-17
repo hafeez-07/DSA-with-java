@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hafeez-07/DSA-with-java/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/hafeez-07/DSA-with-java/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/hafeez-07/DSA-with-java/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/hafeez-07/DSA-with-java/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
