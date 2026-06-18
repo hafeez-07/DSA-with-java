@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hafeez-07/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/hafeez-07/DSA-with-java/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0567-permutation-in-string) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/hafeez-07/DSA-with-java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/hafeez-07/DSA-with-java/tree/master/0239-sliding-window-maximum) |
+| [0523-continuous-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/hafeez-07/DSA-with-java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/hafeez-07/DSA-with-java/tree/master/0724-find-pivot-index) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/hafeez-07/DSA-with-java/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/hafeez-07/DSA-with-java/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1480-running-sum-of-1d-array) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
