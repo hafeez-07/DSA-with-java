@@ -6,12 +6,11 @@ class Solution {
         }
         for(int i=0;i<ransomNote.length();i++){
             freq[ransomNote.charAt(i)-'a']--;
-        }
-        for(int i=0;i<ransomNote.length();i++){
             if(freq[ransomNote.charAt(i)-'a'] < 0){
                 return false;
             }
         }
+      
         return true;
     }
 }
