@@ -11,19 +11,20 @@ class Solution {
 
         for(int i=0;i<pattern.length();i++){
             char c = pattern.charAt(i);
+            String word = words[i];
             if(pTOs.containsKey(c)){
-                if(!pTOs.get(c).equals(words[i])){
+                if(!pTOs.get(c).equals(word)){
                     return false;
                 }
             }else{
-                pTOs.put(c,words[i]);
+                pTOs.put(c,word);
             }
-            if(sTOp.containsKey(words[i])){
-                if(!sTOp.get(words[i]).equals(c)){
+            if(sTOp.containsKey(word)){
+                if(!sTOp.get(word).equals(c)){
                     return false;
                 }
             }else{
-                sTOp.put(words[i],c);
+                sTOp.put(word,c);
             }
         }
         return true;
