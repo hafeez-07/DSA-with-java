@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hafeez-07/DSA-with-java/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/hafeez-07/DSA-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hafeez-07/DSA-with-java/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/hafeez-07/DSA-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hafeez-07/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/hafeez-07/DSA-with-java/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/hafeez-07/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/hafeez-07/DSA-with-java/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -147,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hafeez-07/DSA-with-java/tree/master/0036-valid-sudoku) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
