@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hafeez-07/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/hafeez-07/DSA-with-java/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/hafeez-07/DSA-with-java/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1480-running-sum-of-1d-array) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/hafeez-07/DSA-with-java/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/hafeez-07/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/hafeez-07/DSA-with-java/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 ## Union-Find
 |  |
 | ------- |
@@ -158,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 ## String Matching
 |  |
 | ------- |
@@ -170,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/hafeez-07/DSA-with-java/tree/master/0503-next-greater-element-ii) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
