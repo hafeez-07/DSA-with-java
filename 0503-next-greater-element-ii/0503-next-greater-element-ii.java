@@ -9,10 +9,8 @@ class Solution {
             while(!stack.isEmpty() && nums[stack.peek()] < nums[i%n] ){
                 result[stack.pop()] = nums[i%n];
             }
-            if(i < nums.length) stack.push(i%n);
+            if(i < n) stack.push(i%n);
         }
-
-
 
         return result;
     }
