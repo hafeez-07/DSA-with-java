@@ -44,7 +44,7 @@ class RandomizedSet {
     }
     
     public int getRandom() {
-        int idx = (int)Math.floor(Math.random()*list.size());
+        int idx = (int)(Math.random()*list.size());
         return list.get(idx);
     }
 }
