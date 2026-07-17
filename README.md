@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
