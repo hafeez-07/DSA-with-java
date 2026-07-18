@@ -3,7 +3,7 @@ class MyHashSet {
     boolean [] arr;
 
     public MyHashSet() {
-        arr =  new boolean[10000001];
+        arr =  new boolean[1000001];
     }
     
     public void add(int key) {
