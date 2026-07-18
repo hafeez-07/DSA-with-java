@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/hafeez-07/DSA-with-java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hafeez-07/DSA-with-java/tree/master/0706-design-hashmap) |
 | [0930-binary-subarrays-with-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/hafeez-07/DSA-with-java/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/hafeez-07/DSA-with-java/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/hafeez-07/DSA-with-java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hafeez-07/DSA-with-java/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/hafeez-07/DSA-with-java/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/hafeez-07/DSA-with-java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/hafeez-07/DSA-with-java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hafeez-07/DSA-with-java/tree/master/0706-design-hashmap) |
 ## Randomized
 |  |
 | ------- |
@@ -225,8 +228,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/hafeez-07/DSA-with-java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hafeez-07/DSA-with-java/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/hafeez-07/DSA-with-java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hafeez-07/DSA-with-java/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
