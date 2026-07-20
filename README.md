@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hafeez-07/DSA-with-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/hafeez-07/DSA-with-java/tree/master/0036-valid-sudoku) |
+| [0075-sort-colors](https://github.com/hafeez-07/DSA-with-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/hafeez-07/DSA-with-java/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0209-minimum-size-subarray-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hafeez-07/DSA-with-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0268-missing-number) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hafeez-07/DSA-with-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/hafeez-07/DSA-with-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hafeez-07/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
