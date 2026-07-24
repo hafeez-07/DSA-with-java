@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hafeez-07/DSA-with-java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hafeez-07/DSA-with-java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0509-fibonacci-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hafeez-07/DSA-with-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hafeez-07/DSA-with-java/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/hafeez-07/DSA-with-java/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafeez-07/DSA-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0268-missing-number) |
