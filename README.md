@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hafeez-07/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/hafeez-07/DSA-with-java/tree/master/1768-merge-strings-alternately) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/hafeez-07/DSA-with-java/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Sliding Window
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/hafeez-07/DSA-with-java/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/hafeez-07/DSA-with-java/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
