@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0567-permutation-in-string) |
+| [0680-valid-palindrome-ii](https://github.com/hafeez-07/DSA-with-java/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hafeez-07/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hafeez-07/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0567-permutation-in-string) |
+| [0680-valid-palindrome-ii](https://github.com/hafeez-07/DSA-with-java/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hafeez-07/DSA-with-java/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/hafeez-07/DSA-with-java/tree/master/0680-valid-palindrome-ii) |
 ## Counting
 |  |
 | ------- |
