@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hafeez-07/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hafeez-07/DSA-with-java/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/hafeez-07/DSA-with-java/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0525-contiguous-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/hafeez-07/DSA-with-java/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -198,10 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/hafeez-07/DSA-with-java/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/hafeez-07/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/hafeez-07/DSA-with-java/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hafeez-07/DSA-with-java/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/hafeez-07/DSA-with-java/tree/master/0680-valid-palindrome-ii) |
 ## Counting
 |  |
