@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/hafeez-07/DSA-with-java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/hafeez-07/DSA-with-java/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/hafeez-07/DSA-with-java/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/hafeez-07/DSA-with-java/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hafeez-07/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/hafeez-07/DSA-with-java/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0410-split-array-largest-sum) |
+| [0875-koko-eating-bananas](https://github.com/hafeez-07/DSA-with-java/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
