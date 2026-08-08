@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/hafeez-07/DSA-with-java/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [3941-password-strength](https://github.com/hafeez-07/DSA-with-java/tree/master/3941-password-strength) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hafeez-07/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/hafeez-07/DSA-with-java/tree/master/1768-merge-strings-alternately) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/hafeez-07/DSA-with-java/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [3941-password-strength](https://github.com/hafeez-07/DSA-with-java/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
 | ------- |
