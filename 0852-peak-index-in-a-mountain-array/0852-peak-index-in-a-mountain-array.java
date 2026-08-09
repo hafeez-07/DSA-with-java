@@ -7,13 +7,15 @@ class Solution {
 
             //if mid is peak
             if(arr[mid-1] < arr[mid] && arr[mid] > arr[mid + 1]) return mid;
-
-            //if mountain is increasing in mid
-            if(arr[mid ] < arr[mid +1 ]) low = mid + 1;
-
-            //if mountain is decreasing in mid
-            if(arr[mid] > arr[mid + 1]) high = mid;
+          
+            if(arr[mid ] < arr[mid +1 ]){
+                //still climbing -> peak is to te right
+                low = mid + 1;
+            } else{
+                //descending -> peak is at mid or left
+                high = mid;
+            }
         }
-        return 0;
+        return low;
     }
 }
