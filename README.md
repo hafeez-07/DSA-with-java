@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/hafeez-07/DSA-with-java/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0941-valid-mountain-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hafeez-07/DSA-with-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
