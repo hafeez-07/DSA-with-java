@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/hafeez-07/DSA-with-java/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/hafeez-07/DSA-with-java/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/hafeez-07/DSA-with-java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/hafeez-07/DSA-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hafeez-07/DSA-with-java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hafeez-07/DSA-with-java/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/hafeez-07/DSA-with-java/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/hafeez-07/DSA-with-java/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
