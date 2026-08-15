@@ -3,30 +3,17 @@ class Solution {
         int rows = matrix.length;
         int cols = matrix[0].length;
 
-        //if the target is out of boundary
-        if(target < matrix[0][0] || target > matrix[rows-1][cols-1]){
-            return false;
-        }
+        //use staicase approach - start from top right
+        int row = 0;
+        int col = cols - 1;
 
-        for(int[] row : matrix){
-                if(targetFound(row,target)){
-                    return true;
-                }
-        }
-        return false;
-    }
-
-    public boolean targetFound (int []arr , int target){
-        int low =0;
-        int high = arr.length - 1;
-        while(low <=high){
-            int mid = low + (high - low)/2;
-            if(arr[mid] == target){
+        while ( row < rows && col >= 0){
+            if(matrix[row][col] == target){
                 return true;
-            }else if(target < arr[mid] ){
-                high = mid - 1;
+            }else if (target < matrix[row][col]){
+                col--; //because everything left is smaller
             }else{
-                low = mid + 1;
+                row++; // because evrything below is larger
             }
         }
         return false;
