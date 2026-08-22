@@ -3,12 +3,13 @@ class Solution {
         if(n<=1){
             return n;
         }
-        int prev1 = 1 , prev2 = 0 ;
-        for(int i=2 ;i <=n ;i++){
-            int cur = prev1 + prev2 ;
-            prev2 = prev1;
-            prev1 = cur;
+        int a = 0 ;
+        int b = 1 ;
+        for(int i = 2 ; i<= n ; i++){
+            int next = a + b;
+            a = b;
+            b = next;
         }
-        return prev1;
+        return b ;
     }
 }
