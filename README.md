@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hafeez-07/DSA-with-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1929-concatenation-of-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1991-find-the-middle-index-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/hafeez-07/DSA-with-java/tree/master/2187-minimum-time-to-complete-trips) |
 ## Prefix Sum
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1991-find-the-middle-index-in-array) |
 ## Queue
 |  |
 | ------- |
