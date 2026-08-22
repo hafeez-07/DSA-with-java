@@ -12,7 +12,7 @@ class MyHashMap {
     }
     
     public int get(int key) {
-       if(arr[key]==-1) return -1;
+  
         return arr[key];
     }
     
