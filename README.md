@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hafeez-07/DSA-with-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/hafeez-07/DSA-with-java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/hafeez-07/DSA-with-java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/hafeez-07/DSA-with-java/tree/master/0380-insert-delete-getrandom-o1) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/hafeez-07/DSA-with-java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/hafeez-07/DSA-with-java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/hafeez-07/DSA-with-java/tree/master/0706-design-hashmap) |
 ## Randomized
@@ -360,4 +362,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hafeez-07/DSA-with-java/tree/master/0204-count-primes) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/hafeez-07/DSA-with-java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/hafeez-07/DSA-with-java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/hafeez-07/DSA-with-java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/hafeez-07/DSA-with-java/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
