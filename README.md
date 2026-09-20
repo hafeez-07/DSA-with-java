@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/hafeez-07/DSA-with-java/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/hafeez-07/DSA-with-java/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/hafeez-07/DSA-with-java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/hafeez-07/DSA-with-java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/hafeez-07/DSA-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafeez-07/DSA-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hafeez-07/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/hafeez-07/DSA-with-java/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/hafeez-07/DSA-with-java/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/hafeez-07/DSA-with-java/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0509-fibonacci-number) |
 ## Recursion
