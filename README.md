@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1991-find-the-middle-index-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/hafeez-07/DSA-with-java/tree/master/2187-minimum-time-to-complete-trips) |
+| [2706-buy-two-chocolates](https://github.com/hafeez-07/DSA-with-java/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hafeez-07/DSA-with-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/hafeez-07/DSA-with-java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/hafeez-07/DSA-with-java/tree/master/2706-buy-two-chocolates) |
 ## Quickselect
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hafeez-07/DSA-with-java/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/hafeez-07/DSA-with-java/tree/master/0680-valid-palindrome-ii) |
+| [2706-buy-two-chocolates](https://github.com/hafeez-07/DSA-with-java/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
 | ------- |
