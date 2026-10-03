@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/hafeez-07/DSA-with-java/tree/master/0706-design-hashmap) |
 | [0930-binary-subarrays-with-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hafeez-07/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/hafeez-07/DSA-with-java/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [3941-password-strength](https://github.com/hafeez-07/DSA-with-java/tree/master/3941-password-strength) |
 ## String
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hafeez-07/DSA-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/hafeez-07/DSA-with-java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hafeez-07/DSA-with-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hafeez-07/DSA-with-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hafeez-07/DSA-with-java/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/hafeez-07/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/hafeez-07/DSA-with-java/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Union-Find
 |  |
