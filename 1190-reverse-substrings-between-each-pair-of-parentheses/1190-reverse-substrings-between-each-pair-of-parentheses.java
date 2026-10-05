@@ -1,34 +1,33 @@
 class Solution {
     public String reverseParentheses(String s) {
-        Deque<Character> stack = new ArrayDeque<>();
-        StringBuilder reversed = new StringBuilder();
-
-        //push to stack
-        for(char c : s.toCharArray()){
-            if(c != ')'){ //push to stack
-                stack.push(c);
-            }else{  //when u encounter ) reverse the string upto (
-                while(stack.peek() != '('){  //pop and store in reversed
-                    reversed.append(stack.pop());
-                }
-                stack.pop();  //remove the (
-                while(reversed.length() != 0){  //push the reversed string back to stack
-                    for(int i = 0 ; i <reversed.length() ; i++){
-                        stack.push(reversed.charAt(i));
-                    }
-                    reversed.setLength(0); //clear reversed string
-                }
+        int n = s.length();
+        Deque<Integer> stack = new ArrayDeque<>();  //to store ( index
+        StringBuilder result = new StringBuilder();  //to store result
+        int[] pair = new int[n];  //store pairs like 0 -> 13 , 13 -> 0  i.e (-index 0  )- index 13
+        
+        //construct pairs   
+        for(int i = 0 ; i <n ; i++){
+            if(s.charAt(i)=='('){
+                stack.push(i);
+            }else if(s.charAt(i) == ')'){
+                int open = stack.pop(); //get recent open paranthesis - pair for current ) closing 
+                pair[open] = i;
+                pair[i] =open;
             }
-        } //this function already returns the reversed string
-
-        //when you pop , it's reversed again
-        while(!stack.isEmpty()){
-            reversed.append(stack.pop());
         }
 
-        //reverse once again to get the actal answer
-        return reversed.reverse().toString(); 
-        
-       
+        int direction = 1; //we change direction to traverse the string in reverse and correct path when encountering paranthesis
+
+        //construct result 
+        for(int i = 0 ; i < n ; i += direction){
+            if(s.charAt(i) == '(' || s.charAt(i) == ')'){
+                i = pair[i];
+                direction = -direction;
+            }else{
+                result.append(s.charAt(i));
+            }
+        }
+
+        return result.toString();
     }
 }
