@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/hafeez-07/DSA-with-java/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/hafeez-07/DSA-with-java/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/hafeez-07/DSA-with-java/tree/master/0796-rotate-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hafeez-07/DSA-with-java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hafeez-07/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/hafeez-07/DSA-with-java/tree/master/1768-merge-strings-alternately) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/hafeez-07/DSA-with-java/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/hafeez-07/DSA-with-java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hafeez-07/DSA-with-java/tree/master/0739-daily-temperatures) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hafeez-07/DSA-with-java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hafeez-07/DSA-with-java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hafeez-07/DSA-with-java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
