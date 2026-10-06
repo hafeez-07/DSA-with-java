@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/hafeez-07/DSA-with-java/tree/master/1991-find-the-middle-index-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/hafeez-07/DSA-with-java/tree/master/2187-minimum-time-to-complete-trips) |
+| [2643-row-with-maximum-ones](https://github.com/hafeez-07/DSA-with-java/tree/master/2643-row-with-maximum-ones) |
 | [2706-buy-two-chocolates](https://github.com/hafeez-07/DSA-with-java/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hafeez-07/DSA-with-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/hafeez-07/DSA-with-java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hafeez-07/DSA-with-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/hafeez-07/DSA-with-java/tree/master/2643-row-with-maximum-ones) |
 ## Bucket Sort
 |  |
 | ------- |
