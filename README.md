@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hafeez-07/DSA-with-java/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/hafeez-07/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/hafeez-07/DSA-with-java/tree/master/0523-continuous-subarray-sum) |
+| [2235-add-two-integers](https://github.com/hafeez-07/DSA-with-java/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
